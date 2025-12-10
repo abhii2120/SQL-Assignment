@@ -151,4 +151,5 @@ FROM Customers c
 INNER JOIN Orders o
 ON c.CustomerID = o.CustomerID
 INNER JOIN Payments p
+
 ON c.CustomerID = p.CustomerID;
