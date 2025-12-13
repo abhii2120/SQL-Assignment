@@ -1,22 +1,18 @@
-# Assignment 3 – SQL Aggregation
+# SQL Aggregation Assignment
 
-This folder contains **Assignment 3 – SQL Aggregation**, which focuses on the use of SQL aggregation functions in database queries.
+This folder contains the files related to **Assignment – SQL Aggregation**.
 
 ## Files Included:
-- `Aggregation.sql`  
-  Contains SQL queries using aggregation functions such as COUNT, SUM, AVG, MIN, MAX along with GROUP BY and HAVING clauses.
+- **Aggregation.sql**  
+  This file contains SQL queries using aggregation functions such as COUNT, SUM, AVG, MIN, and MAX along with GROUP BY and HAVING clauses.
 
-- `Aggregation Answer Explanation`  
-  Provides a clear explanation of each SQL query written in the aggregation file.
+- **Answer Explanation (PDF)**  
+  This document provides clear explanations for each aggregation query, explaining how data is grouped and summarized.
 
-- `Question paper.pdf`  
-  Contains the original question paper for Assignment 3.
-
-- `README.md`  
-  This file provides an overview and explanation of the contents of this assignment.
+- **Question Paper (PDF)**  
+  This file contains the original assignment questions related to SQL aggregation concepts.
 
 ## Objective:
-The objective of this assignment is to understand how aggregation functions are used to summarize, group, and analyze data effectively in SQL.
+The objective of this assignment is to understand how SQL aggregation functions are used to summarize, group, and analyze data effectively.
 
-All queries are written in a structured and easy-to-understand manner and can be executed in a standard SQL environment.
-
+All files are clearly named and organized for easy review and evaluation.
