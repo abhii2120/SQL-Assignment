@@ -82,3 +82,4 @@ WHERE customer_name = 'Aditi';
 -- Common constraints:
 -- PRIMARY KEY, FOREIGN KEY, NOT NULL, UNIQUE, CHECK, DEFAULT
 -- They ensure accuracy, consistency, and reliability of data.
+
