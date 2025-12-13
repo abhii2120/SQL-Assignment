@@ -1,11 +1,19 @@
-This folder contains a complete SQL Joins assignment created for academic learning and practice.
+# SQL Joins Assignment
 
- Contents:
+This folder contains the files related to the **SQL Joins Assignment**.
 
-Joins_Assignment.sql – SQL file containing complete and well-structured answers
+## Files Included:
+- **Joins.sql**  
+  This file contains SQL queries using different types of joins such as INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN to combine data from multiple tables.
 
-SQL_Joins_Answers.pdf – Full assignment solutions with explanations
+- **Answer Explanation (PDF)**  
+  This document provides clear explanations for each join query, explaining the logic and relationship between the tables.
 
-SQL_Joins_Question_Paper.pdf – Original question paper for reference
+- **Question Paper (PDF)**  
+  This file contains the original assignment questions related to SQL joins.
 
-All queries are written using proper SQL syntax and are intended for understanding and practicing different types of SQL JOIN operations.
+## Objective:
+The objective of this assignment is to understand how joins are used in SQL to retrieve data from multiple tables based on related columns.
+
+All files are clearly named and organized for easy review and evaluation.
+
