@@ -1,8 +1,19 @@
-This folder contains all the required files for the Subqueries SQL Assignment:
+# SQL Subqueries Assignment
 
-1. Subqueries.sql – SQL queries based on subqueries.
-2. Subqueries Question Paper (PDF) – Original assignment questions.
-3. Subqueries Answer Explanation (PDF) – Step-by-step solutions.
-4. README – Summary of all uploaded files.
+This folder contains the files related to the **SQL Subqueries Assignment**.
 
-All files are arranged clearly for easy review.
+## Files Included:
+- **Subqueries.sql**  
+  This file contains SQL queries based on subqueries, including subqueries in SELECT, WHERE, and FROM clauses, as well as correlated subqueries.
+
+- **Answer Explanation (PDF)**  
+  This document provides step-by-step explanations for each subquery, explaining the logic and approach used.
+
+- **Question Paper (PDF)**  
+  This file contains the original assignment questions related to SQL subqueries.
+
+## Objective:
+The objective of this assignment is to understand how subqueries are used in SQL to retrieve and manipulate data from nested queries.
+
+All files are clearly named and organized for easy review and evaluation.
+
