@@ -1,6 +1,11 @@
-This repository contains the following files:
+This folder contains a complete SQL Joins assignment created for academic learning and practice.
 
-SQL Joins_Assignment.sql – SQL answer file
-SQL Joins_Assignment_Answers.pdf – Full assignment answers (PDF)
-SQL Joins_Question_Paper.pdf – Original assignment question paper
-All files are uploaded for review and evaluation.
+ Contents:
+
+Joins_Assignment.sql – SQL file containing complete and well-structured answers
+
+SQL_Joins_Answers.pdf – Full assignment solutions with explanations
+
+SQL_Joins_Question_Paper.pdf – Original question paper for reference
+
+All queries are written using proper SQL syntax and are intended for understanding and practicing different types of SQL JOIN operations.
