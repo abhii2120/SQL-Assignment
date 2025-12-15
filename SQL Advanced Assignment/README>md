@@ -1,1 +1,19 @@
+# Advanced SQL Assignment
+
+This folder contains the files related to the **Advanced SQL Assignment**.
+
+## Files Included:
+- **Advanced_SQL.sql**  
+  This file contains SQL queries covering advanced SQL concepts such as Common Table Expressions (CTEs), window functions, views, indexes, subqueries, and complex joins.
+
+- **Answer Explanation (PDF)**  
+  This document provides detailed explanations for each advanced SQL query, including the logic and approach used.
+
+- **Question Paper (PDF)**  
+  This file contains the original assignment questions related to advanced SQL topics.
+
+## Objective:
+The objective of this assignment is to understand and apply advanced SQL techniques to solve complex data retrieval and analysis problems efficiently.
+
+All files are clearly named and organized for easy review and evaluation.
 
