@@ -1,4 +1,4 @@
-SQL Assignment Repository
+#SQL Assignment Repository
 
 This repository contains a comprehensive collection of SQL assignments created for academic learning and practical skill development in Data Analytics.
 It covers SQL concepts from basic to advanced level, with well-structured queries, explanations, and reference materials.
